@@ -131,12 +131,10 @@ font-family: 'Helvetica', 'Helvetica Rounded', Arial, sans-serif;
 }
 	.producth1 {
 		text-align:center;
-		padding-top:25px;
+		padding-top:33px;
 	}
 		 
-		#products ul li a {
-			 
-		} 
+		 
 		 
 	.featured {
 		width:100%;
@@ -522,3 +520,11 @@ font-family: 'Helvetica', 'Helvetica Rounded', Arial, sans-serif;
 				padding-left:35px;	 
 		}		
 }
+
+ 
+  @media only screen and (max-width: 1280px) {
+     .allprod {
+     	font-size:15px;
+     }
+
+    }
